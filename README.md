@@ -1,2 +1,4 @@
-# Deep_Learning_From_Scratch
-Basic Deep Learning Models 
+# Deep Learning From Scratch
+
+The aim of this Repository is to create a common place for all the Deep Learning Models that I had written from scratch following the mathematics behind them.
+
